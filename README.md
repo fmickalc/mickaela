@@ -2,7 +2,7 @@
 I am student at New Era University
 
 <h2> Education </h2>
-New Era University
+New Era University <br>
 Bachelor of Science in Information Technology
 
 <h2> Certifications </h2>
